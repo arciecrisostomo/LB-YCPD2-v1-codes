@@ -22,7 +22,7 @@ The project MicroManage, which is a microbusiness manager program, generally act
 
 ### Installing the Program
 
-The program may directly be downloaded from the given GitHub Repository. On the contrary, a complete documentation of the iteration of the program may be found within the google drive linked <a href="https://drive.google.com/drive/folders/1-Cq-PJED2ZSbCDUUvhU7sbSt85TM4_Wq">here</a>. The files must be viewed as <i>last modified</i> to find the most recent iteration.
+The program may directly be downloaded from the given GitHub Repository. On the contrary, a complete documentation of the iteration of the program may be found within the Google Drive linked <a href="https://drive.google.com/drive/folders/1-Cq-PJED2ZSbCDUUvhU7sbSt85TM4_Wq">here</a>. The files must be viewed as <i>last modified</i> to find the most recent iteration.
 
 Once the file has been installed, extracted, and opened in PyCharm, an interpreter must then be set up by modifying the <i>Edit Configurations</i> tab of the project, specifically the <b>.exe</b> file available under the downloaded Python version of the interpreter. 
 
