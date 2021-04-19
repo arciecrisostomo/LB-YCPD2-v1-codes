@@ -82,7 +82,7 @@ Once the file has been installed, extracted, and opened in PyCharm, an interpret
   * 1.1
     * Revised overall structure of the modules.
   * 1.0
-    * Initial Setup of PyCharm localhost website.
+    * Initial setup of PyCharm localhost website.
 
 ### Authors and Contributions
 
